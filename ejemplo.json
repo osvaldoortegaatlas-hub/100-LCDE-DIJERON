@@ -1,0 +1,293 @@
+{
+  "title": "100 LCDE DIJERON",
+  "teamA": "Equipo A",
+  "teamB": "Equipo B",
+  "stealMult": 2,
+  "failSteal": "none",
+  "questions": [
+    {
+      "q": "Menciona algo que necesita un emprendedor para comenzar un negocio.",
+      "mult": 1,
+      "answers": [
+        {
+          "t": "Dinero",
+          "p": 35
+        },
+        {
+          "t": "Una idea",
+          "p": 25
+        },
+        {
+          "t": "Plan de negocios",
+          "p": 15
+        },
+        {
+          "t": "Equipo",
+          "p": 10
+        },
+        {
+          "t": "Clientes",
+          "p": 8
+        },
+        {
+          "t": "Conocimientos",
+          "p": 7
+        }
+      ]
+    },
+    {
+      "q": "Menciona algo que hace un estudiante cuando termina la semana de exámenes.",
+      "mult": 2,
+      "answers": [
+        {
+          "t": "Dormir",
+          "p": 38
+        },
+        {
+          "t": "Salir con amigos",
+          "p": 24
+        },
+        {
+          "t": "Ver series",
+          "p": 16
+        },
+        {
+          "t": "Comer",
+          "p": 12
+        },
+        {
+          "t": "Jugar videojuegos",
+          "p": 10
+        }
+      ]
+    },
+    {
+      "q": "Menciona una cualidad de un buen líder.",
+      "mult": 3,
+      "answers": [
+        {
+          "t": "Comunicación",
+          "p": 30
+        },
+        {
+          "t": "Empatía",
+          "p": 22
+        },
+        {
+          "t": "Responsabilidad",
+          "p": 18
+        },
+        {
+          "t": "Visión",
+          "p": 15
+        },
+        {
+          "t": "Honestidad",
+          "p": 10
+        },
+        {
+          "t": "Paciencia",
+          "p": 5
+        }
+      ]
+    },
+    {
+      "q": "Menciona algo que no puede faltar en una exposición de equipo.",
+      "mult": 1,
+      "answers": [
+        {
+          "t": "Presentación / diapositivas",
+          "p": 32
+        },
+        {
+          "t": "Buena voz",
+          "p": 22
+        },
+        {
+          "t": "Dominio del tema",
+          "p": 20
+        },
+        {
+          "t": "Trabajo en equipo",
+          "p": 14
+        },
+        {
+          "t": "Puntualidad",
+          "p": 12
+        }
+      ]
+    },
+    {
+      "q": "Menciona una razón por la que un estudiante llega tarde a clase.",
+      "mult": 1,
+      "answers": [
+        {
+          "t": "Se quedó dormido",
+          "p": 40
+        },
+        {
+          "t": "Tráfico",
+          "p": 25
+        },
+        {
+          "t": "Transporte público",
+          "p": 15
+        },
+        {
+          "t": "Se le hizo tarde desayunando",
+          "p": 12
+        },
+        {
+          "t": "Olvidó algo en casa",
+          "p": 8
+        }
+      ]
+    },
+    {
+      "q": "Menciona algo que se debe revisar antes de invertir en un negocio.",
+      "mult": 2,
+      "answers": [
+        {
+          "t": "Rentabilidad",
+          "p": 30
+        },
+        {
+          "t": "Riesgos",
+          "p": 24
+        },
+        {
+          "t": "Mercado / competencia",
+          "p": 18
+        },
+        {
+          "t": "Costos",
+          "p": 14
+        },
+        {
+          "t": "Permisos legales",
+          "p": 9
+        },
+        {
+          "t": "Ubicación",
+          "p": 5
+        }
+      ]
+    },
+    {
+      "q": "Menciona una red social que usan los estudiantes universitarios.",
+      "mult": 1,
+      "answers": [
+        {
+          "t": "Instagram",
+          "p": 34
+        },
+        {
+          "t": "WhatsApp",
+          "p": 26
+        },
+        {
+          "t": "TikTok",
+          "p": 20
+        },
+        {
+          "t": "Facebook",
+          "p": 12
+        },
+        {
+          "t": "X / Twitter",
+          "p": 8
+        }
+      ]
+    },
+    {
+      "q": "Menciona algo que hace una empresa para atraer clientes.",
+      "mult": 2,
+      "answers": [
+        {
+          "t": "Promociones y descuentos",
+          "p": 34
+        },
+        {
+          "t": "Publicidad",
+          "p": 24
+        },
+        {
+          "t": "Redes sociales",
+          "p": 18
+        },
+        {
+          "t": "Buen servicio",
+          "p": 12
+        },
+        {
+          "t": "Regalos / muestras",
+          "p": 7
+        },
+        {
+          "t": "Programa de lealtad",
+          "p": 5
+        }
+      ]
+    },
+    {
+      "q": "Menciona algo que un profesionista debe llevar a una entrevista de trabajo.",
+      "mult": 1,
+      "answers": [
+        {
+          "t": "Currículum",
+          "p": 45
+        },
+        {
+          "t": "Identificación",
+          "p": 18
+        },
+        {
+          "t": "Buena actitud",
+          "p": 15
+        },
+        {
+          "t": "Ropa formal",
+          "p": 12
+        },
+        {
+          "t": "Carta de recomendación",
+          "p": 6
+        },
+        {
+          "t": "Libreta y pluma",
+          "p": 4
+        }
+      ]
+    },
+    {
+      "q": "Menciona algo que los estudiantes hacen en la Semana de la Licenciatura.",
+      "mult": 3,
+      "answers": [
+        {
+          "t": "Conferencias",
+          "p": 30
+        },
+        {
+          "t": "Concursos y juegos",
+          "p": 24
+        },
+        {
+          "t": "Convivir con compañeros",
+          "p": 18
+        },
+        {
+          "t": "Talleres",
+          "p": 14
+        },
+        {
+          "t": "Comer / feria de comida",
+          "p": 9
+        },
+        {
+          "t": "Tomar fotos",
+          "p": 5
+        }
+      ]
+    }
+  ]
+}
